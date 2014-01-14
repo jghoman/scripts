@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+set -e
+
+source ~/.bash_profile
+cd ~/dotfiles
+git pull --quiet
+
